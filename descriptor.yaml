@@ -1,0 +1,6 @@
+code: CAPTCHA
+description: Template for ent projects
+components:
+  widgets:
+    - ui/widgets/widgets-dir/captcha-widget/captcha-descriptor.yaml
+
