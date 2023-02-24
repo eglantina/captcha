@@ -1,0 +1,6 @@
+code: captcha-section
+titles:
+ en: Sample captcha Section Template
+ it: Sample captcha Section Template
+group: free
+customUiPath: captcha.ftl
